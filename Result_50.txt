@@ -1,0 +1,8 @@
+
+
+Number of Hosts =15
+Number of Vms = 40
+Number of Taks=50
+
+Makespan=374.00338132930534s
+

@@ -1,0 +1,48 @@
+
+
+Number of Hosts =10
+Number of Vms = 40
+Number of Taks=100
+
+Makespan=432.12935513024036s
+
+
+
+Number of Hosts =10
+Number of Vms = 40
+Number of Taks=100
+
+Makespan=783.5157563951732s
+
+
+
+Number of Hosts =10
+Number of Vms = 40
+Number of Taks=100
+
+Makespan=1020.5544288631321s
+
+
+
+Number of Hosts =10
+Number of Vms = 40
+Number of Taks=100
+
+Makespan=1019.4751257512597s
+
+
+
+Number of Hosts =10
+Number of Vms = 40
+Number of Taks=100
+
+Makespan=1467.7563944500926s
+
+
+
+Number of Hosts =15
+Number of Vms = 40
+Number of Taks=100
+
+Makespan=929.8101064225405s
+
